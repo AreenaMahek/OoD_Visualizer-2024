@@ -1,0 +1,1 @@
+'home' is the app for the django project 'neurobazaar'
