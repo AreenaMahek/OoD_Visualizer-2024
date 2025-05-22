@@ -1,0 +1,4 @@
+This folder has all the media files:
+1. LIDC_Generated images
+2. Nodule Segmented Images
+3. OoD Dataset
